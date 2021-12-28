@@ -1,0 +1,12 @@
+C:\Users\Murat\source\repos\Abc\Abc.Core\bin\Debug\Abc.Core.dll.config
+C:\Users\Murat\source\repos\Abc\Abc.Core\bin\Debug\Abc.Core.dll
+C:\Users\Murat\source\repos\Abc\Abc.Core\bin\Debug\Abc.Core.pdb
+C:\Users\Murat\source\repos\Abc\Abc.Core\bin\Debug\EntityFramework.dll
+C:\Users\Murat\source\repos\Abc\Abc.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Murat\source\repos\Abc\Abc.Core\bin\Debug\EntityFramework.xml
+C:\Users\Murat\source\repos\Abc\Abc.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Murat\source\repos\Abc\Abc.Core\obj\Debug\Abc.Core.csproj.AssemblyReference.cache
+C:\Users\Murat\source\repos\Abc\Abc.Core\obj\Debug\Abc.Core.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\Abc\Abc.Core\obj\Debug\Abc.Core.csproj.CopyComplete
+C:\Users\Murat\source\repos\Abc\Abc.Core\obj\Debug\Abc.Core.dll
+C:\Users\Murat\source\repos\Abc\Abc.Core\obj\Debug\Abc.Core.pdb

@@ -1,0 +1,2 @@
+C:\Users\Murat\source\repos\Abc\Abc.Northwind.Bisuness\obj\Debug\Abc.Northwind.Bisuness.csproj.AssemblyReference.cache
+C:\Users\Murat\source\repos\Abc\Abc.Northwind.Bisuness\obj\Debug\Abc.Northwind.Bisuness.csproj.CoreCompileInputs.cache

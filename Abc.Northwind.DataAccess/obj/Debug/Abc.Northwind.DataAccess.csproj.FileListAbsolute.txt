@@ -1,0 +1,2 @@
+C:\Users\Murat\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\Abc.Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Murat\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\Abc.Northwind.DataAccess.csproj.CoreCompileInputs.cache
